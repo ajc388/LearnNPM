@@ -1,6 +1,6 @@
 {
   "name": "ajc388",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The learning project for npm",
   "main": "index.js",
   "scripts": {
