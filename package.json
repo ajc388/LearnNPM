@@ -1,5 +1,5 @@
 {
-  "name": "ajc388",
+  "name": "@ajc388/ajc388",
   "version": "1.0.1",
   "description": "The learning project for npm",
   "main": "index.js",
@@ -16,11 +16,15 @@
   "author": "Andrew Carter",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ajc388/LearnNPM.git"
+    "url": "git+ssh://git@github.com/ajc388/LearnNPM.git"
   },
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/ajc388/LearnNPM/issues"
+  },
+  "homepage": "https://github.com/ajc388/LearnNPM#readme"
 }
