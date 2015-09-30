@@ -4,7 +4,7 @@
   "description": "The learning project for npm",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node test.js"
   },
   "keywords": [
     "Awesome",
