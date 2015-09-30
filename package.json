@@ -19,9 +19,6 @@
     "url": "git+ssh://git@github.com/ajc388/LearnNPM.git"
   },
   "license": "ISC",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
   "devDependencies": {},
   "bugs": {
     "url": "https://github.com/ajc388/LearnNPM/issues"
